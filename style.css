@@ -1,0 +1,39 @@
+body{
+    Text-align: center;
+    }
+    #first{
+    font-style: Smallcaps;
+    font-size: 90px;
+    }
+    #album{
+    border-style: solid;
+    Border-color: black;
+    width: 500px;
+    height: 400px;
+    }
+    #album1{
+        border-style: solid;
+        Border-color: black;
+        width: 500px;
+        height: 400px;
+        display: none;
+    }
+    #album2{
+        border-style: solid;
+        Border-color: black;
+        width: 500px;
+        height: 400px;
+        display: none;
+    }
+    #album3{
+        border-style: solid;
+        Border-color: black;
+        width: 500px;
+        height: 400px;
+        display: none;
+    }
+   #p{
+    font-size: medium;
+    font-family: monospace;
+    font-style: italic;
+   }
